@@ -1,6 +1,6 @@
 
 ## License
-This File Listing Simple App licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This Simple File Listing App licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Installation
  - copy .env.example to .env
